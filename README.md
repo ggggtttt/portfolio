@@ -26,6 +26,8 @@ Disclosed, publicly accessible reports:
 | Staking | n/a | Reviewer | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/01/Hacken_Qooodo_SCA-Qoodo.io_Staking_Dec2023_P-2023-049_8_20240109-16_48-1.pdf) |
 | NFT, Staking, Vesting | n/a | Reviewer | [📄 Report](https://common-wealth-audit.s3.eu-north-1.amazonaws.com/Hacken+Common+Wealth+Nov2023.pdf) |
 | Account Abstraction | n/a | Reviewer | [📄 Report](https://wp.hacken.io/wp-content/uploads/2023/12/Sock_SC-Audit-Report_05122023_SA-2073.pdf) |
+| Staking | n/a | Reviewer | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/01/SCA-Final-Report-Ignition-Staking-2.0.pdf) |
+| AVL Tree | n/a | Reviewer | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/01/Ociswap_AVL-tree_SC-Audit-Report_21112023_SA-1999-1.pdf) |
 
 ## Solidity audits done during employment in Halborn
 
@@ -49,6 +51,7 @@ Disclosed, publicly accessible reports:
 ## Achievements
 
 - Secureum RACE-25, 4th place, 7.7/8, [Link](https://discord.com/channels/814328279468474419/927065287172427798/1191778508125519902)
+- Secureum RACE-26 - Vyper, 14th place, 4.5/8, [Link](https://discord.com/channels/814328279468474419/927065287172427798/1202220388906442772)
 
 ## Certificates
 
