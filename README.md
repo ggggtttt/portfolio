@@ -7,11 +7,18 @@ Around +50 assessments done so far. Vast number of Critical and High severity vu
 
 Connect for web2 and web3 Private Penetration Testing Services:
 
+- Sherlock - [cocacola](https://audits.sherlock.xyz/watson/cocacola)
 - Telegram - [@grzegorz_tra](https://t.me/grzegorz_tra)
 - Twitter - [gt_gsec](https://twitter.com/gt_gsec)
 - LinkedIn - [grzegorztrawinski](https://www.linkedin.com/in/grzegorztrawinski/)
 
 Disclosed, publicly accessible reports:
+
+## Solidity audits done in Sherlock
+
+| Type | Successes | Role | Report |
+| - | - | - | :-: |
+| Gaming, Lotery | 1 High, 1 Medium | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/163) |
 
 ## Solidity audits done during employment in Hacken
 
