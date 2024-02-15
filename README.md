@@ -2,7 +2,7 @@
 
 ## About GSEC
 
-Engaged in IT since 2011. Former Software Engineer. Penetration tester, since 2022 I am supporting Clients with securing digital assets as EVM smart contract security auditor. <br /><br />
+Engaged in IT since 2011. Since 2022 I am supporting Clients with securing digital assets as EVM smart contract security auditor. <br /><br />
 Around +50 assessments done so far. Vast number of Critical and High severity vulnerabilities identified, including funds theft, tokens lockout and non-standard business logic issues.
 
 Connect for web2 and web3 Private Penetration Testing Services:
