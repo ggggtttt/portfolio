@@ -18,7 +18,7 @@ Disclosed, publicly accessible reports:
 
 | Type | Successes | Role | Report |
 | - | - | - | :-: |
-| Ether, Staking, Bridge, LIDO | 1 Low, 6 Info | Auditor | [📄 Report](https://github.com/ggggtttt/audits/blob/main/reports/2024-02-edgelessNetwork.md) |
+| Yield Staking, LIDO, Bridge | 1 Low, 6 Info | Auditor | [📄 Report](https://github.com/ggggtttt/audits/blob/main/reports/2024-02-edgelessNetwork.md) |
 
 ## Solidity audits done in Sherlock
 
