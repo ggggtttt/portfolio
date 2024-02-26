@@ -14,10 +14,17 @@ Connect for web2 and web3 Private Penetration Testing Services:
 
 Disclosed, publicly accessible reports:
 
+## Private audits
+
+| Type | Successes | Role | Report |
+| - | - | - | :-: |
+| Ether, Staking, Bridge, LIDO | 1 Low, 6 Info | Auditor | [📄 Report](https://github.com/ggggtttt/audits/blob/main/reports/2024-02-edgelessNetwork.md) |
+
 ## Solidity audits done in Sherlock
 
 | Type | Successes | Role | Report |
 | - | - | - | :-: |
+| Governance | 1 Medium | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/155) |
 | Gaming, Lotery | 1 High, 1 Medium | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/163) |
 
 ## Solidity audits done during employment in Hacken
