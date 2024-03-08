@@ -7,6 +7,7 @@ Around +50 assessments done so far. Vast number of Critical and High severity vu
 
 Connect for web2 and web3 Private Penetration Testing Services:
 
+- FindAudit - [gt_gsec](https://app.findaudit.xyz/p/gt_gsec)
 - Sherlock - [cocacola](https://audits.sherlock.xyz/watson/cocacola)
 - Telegram - [@grzegorz_tra](https://t.me/grzegorz_tra)
 - Twitter - [gt_gsec](https://twitter.com/gt_gsec)
