@@ -20,6 +20,7 @@ Disclosed, publicly accessible reports:
 
 | Type | Successes | Role | Report |
 | - | - | - | :-: |
+| On-chain Bonds, ERC1155 | 1 High, 1 Medium, 2 Low | Auditor | [📄 Report](https://github.com/ggggtttt/audits/blob/main/reports/2024-03-amet-finance-fixed-flex.md) |
 | Yield Staking, LIDO, Bridge | 1 Low, 6 Info | Auditor | [📄 Report](https://github.com/ggggtttt/audits/blob/main/reports/2024-02-edgelessNetwork.md) |
 
 ## Solidity audits done in Sherlock
@@ -49,7 +50,7 @@ Disclosed, publicly accessible reports:
 
 | Type | Successes | Role | Report |
 | - | - | - | :-: |
-| Gaming, Asset Rental  | 5 Critical | Auditor | [📄 Report](https://polemos.io/wp-content/uploads/2023/05/Polemos_Lending_Smart_Contract_Security_Audit_Report_Halborn_Final_Update.pdf) |
+| Gaming, Asset Rental  | 5 Critical, 4 Medium | Auditor | [📄 Report](https://polemos.io/wp-content/uploads/2023/05/Polemos_Lending_Smart_Contract_Security_Audit_Report_Halborn_Final_Update.pdf) |
 | Lending Platform | 7 Critical, 8 High | Auditor | [📄 Report](https://github.com/HalbornSecurity/PublicReports/blob/master/Solidity%20Smart%20Contract%20Audits/Debt_DAO_P2P_Loan_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
 | ETH Staking | 1 High | Auditor | [📄 Report](https://github.com/stakewise/v3-core/blob/main/audits/05-2023-Halborn.pdf) |
 | Bridge | 2 Medium | Auditor | [📄 Report](https://www.circle.com/hubfs/6778953/CCTP/Circle_Internet_Financial_EVM_Bridge_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
