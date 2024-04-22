@@ -34,6 +34,7 @@ Disclosed, publicly accessible reports:
 
 | Type | Successes | Role | Report |
 | - | - | - | :-: |
+| Anonymity, Oasis Network | 1 Critical, 3 High | Auditor | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/04/Hacken_CoinStir_SCA-CoinStir_EIP712_Feb2024_P-2024-204_2_20240329-10_14.pdf) |
 | Staking | 1 High | Auditor | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/03/Hacken_LinqAI_SCA-LinqAI_Token_Mar2024_P-2024-254_1_20240329-08_50.pdf) |
 | IDO, Vesting | 5 Critical, 4 High | Collaboration | [📄 Report](https://wp.hacken.io/wp-content/uploads/2023/12/Paid_Network_SC-Audit-Report_180823_SA-1984_final-1.pdf) |
 | ERC20 | 1 Medium | Auditor | [📄 Report](https://wp.hacken.io/wp-content/uploads/2023/11/VitalTale_SC-Audit-Report_DATE_SA-1884_update.pdf) |
