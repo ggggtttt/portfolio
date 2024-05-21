@@ -27,6 +27,7 @@ Disclosed, publicly accessible reports:
 
 | Type | Successes | Role | Report |
 | - | - | - | :-: |
+| Auction, NFT | 1 High | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/191) |
 | Governance | 1 Medium | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/155) |
 | Gaming, Lotery | 1 High, 1 Medium | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/163) |
 
