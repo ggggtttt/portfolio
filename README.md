@@ -31,13 +31,19 @@ Disclosed, publicly accessible reports:
 | Governance | 1 Medium | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/155) |
 | Gaming, Lotery | 1 High, 1 Medium | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/163) |
 
+## Solidity audits done with Guardian
+
+| Type | Successes | Role | Report |
+| - | - | - | :-: |
+| ERC7631, ERC20, ERC721 | n/a | Team | [📄 Report](https://github.com/GuardianAudits/Audits/blob/main/DN404/2024-05-13_DN404.pdf) |
+
 ## Solidity audits done during employment in Hacken
 
 | Type | Successes | Role | Report |
 | - | - | - | :-: |
 | Anonymity, Oasis Network | 1 Critical, 3 High | Auditor | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/04/Hacken_CoinStir_SCA-CoinStir_EIP712_Feb2024_P-2024-204_2_20240329-10_14.pdf) |
 | Staking | 1 High | Auditor | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/03/Hacken_LinqAI_SCA-LinqAI_Token_Mar2024_P-2024-254_1_20240329-08_50.pdf) |
-| IDO, Vesting | 5 Critical, 4 High | Collaboration | [📄 Report](https://wp.hacken.io/wp-content/uploads/2023/12/Paid_Network_SC-Audit-Report_180823_SA-1984_final-1.pdf) |
+| IDO, Vesting | 5 Critical, 4 High | Team | [📄 Report](https://wp.hacken.io/wp-content/uploads/2023/12/Paid_Network_SC-Audit-Report_180823_SA-1984_final-1.pdf) |
 | ERC20 | 1 Medium | Auditor | [📄 Report](https://wp.hacken.io/wp-content/uploads/2023/11/VitalTale_SC-Audit-Report_DATE_SA-1884_update.pdf) |
 | Reward Distribution | 6 Low | Auditor | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/01/Hacken_Wow_Earn_SCA_Wow_Earn_Token_Dec2023_20601_2_20240112_13_31.pdf) |
 | NFT Marketplace | n/a | Reviewer | [📄 Report](https://wp.hacken.io/wp-content/uploads/2023/11/Eesee_SC-Audit-Report_29112023_SA-2010.pdf) |
