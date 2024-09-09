@@ -27,7 +27,6 @@ Disclosed, publicly accessible reports:
 
 | Type | Successes | Role | Report |
 | - | - | - | :-: |
-
 | DEX | 1 High | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/437) |
 | OrderBook | 1 High | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/404) |
 | Auction, NFT | 1 High | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/191) |
