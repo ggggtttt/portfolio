@@ -27,6 +27,9 @@ Disclosed, publicly accessible reports:
 
 | Type | Successes | Role | Report |
 | - | - | - | :-: |
+
+| DEX | 1 High | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/437) |
+| OrderBook | 1 High | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/404) |
 | Auction, NFT | 1 High | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/191) |
 | Governance | 1 Medium | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/155) |
 | Gaming, Lotery | 1 High, 1 Medium | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/163) |
@@ -77,7 +80,6 @@ Disclosed, publicly accessible reports:
 ## Achievements
 
 - Secureum RACE-25, 4th place, 7.7/8, [Link](https://discord.com/channels/814328279468474419/927065287172427798/1191778508125519902)
-- Secureum RACE-26 - Vyper, 14th place, 4.5/8, [Link](https://discord.com/channels/814328279468474419/927065287172427798/1202220388906442772)
 
 ## Certificates
 
