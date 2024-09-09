@@ -48,6 +48,8 @@ Disclosed, publicly accessible reports:
 | IDO, Vesting | 5 Critical, 4 High | Team | [📄 Report](https://wp.hacken.io/wp-content/uploads/2023/12/Paid_Network_SC-Audit-Report_180823_SA-1984_final-1.pdf) |
 | ERC20 | 1 Medium | Auditor | [📄 Report](https://wp.hacken.io/wp-content/uploads/2023/11/VitalTale_SC-Audit-Report_DATE_SA-1884_update.pdf) |
 | Reward Distribution | 6 Low | Auditor | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/01/Hacken_Wow_Earn_SCA_Wow_Earn_Token_Dec2023_20601_2_20240112_13_31.pdf) |
+| Bridge | n/a | Reviewer | [📄 Report](https://audits.hacken.io/airdao/sca-airdao-bridge-apr2024/) |
+| DEX, Bridge | n/a | Reviewer | [📄 Report](https://audits.hacken.io/dexalot/sca-dexalot-dex-bridge-mar2024/) |
 | NFT Marketplace | n/a | Reviewer | [📄 Report](https://wp.hacken.io/wp-content/uploads/2023/11/Eesee_SC-Audit-Report_29112023_SA-2010.pdf) |
 | Stablecoin | n/a | Reviewer | [📄 Report](https://wp.hacken.io/wp-content/uploads/2023/12/Hacken_USDM_USDM-LOC_-104_P-2023-052_3_20231219-15_31.pdf) |
 | Lending | n/a | Reviewer | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/01/Hacken_Paribus_SCA-Paribus_Governance_Dec2023_P-2023-036_2_20240108-16_05.pdf) |
