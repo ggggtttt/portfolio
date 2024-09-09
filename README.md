@@ -78,6 +78,11 @@ Disclosed, publicly accessible reports:
 | Gaming | n/a | Reviewer | [📄 Report](https://github.com/HalbornSecurity/PublicReports/blob/master/Solidity%20Smart%20Contract%20Audits/gmbl.computer_gmbl_contracts_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
 | Cross Chain, Wormhole | n/a | Reviewer | [📄 Report](https://github.com/HalbornSecurity/PublicReports/blob/master/Solidity%20Smart%20Contract%20Audits/Nexa_CAT_ERC_Standards_Smart_Contract_Security_Assessment_Report_Halborn_Final.pdf) |
 
+## Web3 Trainer 
+
+- Sekurak Academy: Smart Contract Hacking part I (2024): https://sklep.securitum.pl/hackowanie-smart-kontraktow-jeden
+- Sekurak Academy: Smart Contract Hacking part II (2024): https://sklep.securitum.pl/hackowanie-smart-kontraktow-dwa
+
 ## Achievements
 
 - Secureum RACE-25, 4th place, 7.7/8, [Link](https://discord.com/channels/814328279468474419/927065287172427798/1191778508125519902)
