@@ -49,9 +49,12 @@ Disclosed, publicly accessible reports:
 
 | Type | Successes | Role | Report |
 | - | - | - | :-: |
+
+| Bridge, Odysey Network | 1 Critical, 2 High, 1 Medium | Auditor | [📄 Report](https://audits.hacken.io/dione-protocol/sca-dione-protocol-odysseybridges-sep2024/) |
 | Anonymity, Oasis Network | 1 Critical, 3 High | Auditor | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/04/Hacken_CoinStir_SCA-CoinStir_EIP712_Feb2024_P-2024-204_2_20240329-10_14.pdf) |
 | Staking | 1 High | Auditor | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/03/Hacken_LinqAI_SCA-LinqAI_Token_Mar2024_P-2024-254_1_20240329-08_50.pdf) |
 | IDO, Vesting | 5 Critical, 4 High | Team | [📄 Report](https://wp.hacken.io/wp-content/uploads/2023/12/Paid_Network_SC-Audit-Report_180823_SA-1984_final-1.pdf) |
+| Staking | 1 Medium | Auditor | [📄 Report](https://audits.hacken.io/pikamoon/sca-re-audit-pikamoon-staking-oct2024/) |
 | ERC20 | 1 Medium | Auditor | [📄 Report](https://wp.hacken.io/wp-content/uploads/2023/11/VitalTale_SC-Audit-Report_DATE_SA-1884_update.pdf) |
 | Reward Distribution | 6 Low | Auditor | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/01/Hacken_Wow_Earn_SCA_Wow_Earn_Token_Dec2023_20601_2_20240112_13_31.pdf) |
 | Bridge | n/a | Reviewer | [📄 Report](https://audits.hacken.io/airdao/sca-airdao-bridge-apr2024/) |
