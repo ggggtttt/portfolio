@@ -33,13 +33,19 @@ Disclosed, publicly accessible reports:
 | Governance | 1 Medium | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/155) |
 | Gaming, Lotery | 1 High, 1 Medium | Auditor | [📄 Report](https://audits.sherlock.xyz/contests/163) |
 
+## Solidity audits done with CDSecurity
+
+| Type | Successes | Role | Report |
+| - | - | - | :-: |
+| Euler, ERC20 wrapper | 4 Low | Team | [📄 Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Euler_Audit.pdf) |
+
 ## Solidity audits done with Guardian
 
 | Type | Successes | Role | Report |
 | - | - | - | :-: |
 | ERC7631, ERC20, ERC721 | n/a | Team | [📄 Report](https://github.com/GuardianAudits/Audits/blob/main/DN404/2024-05-13_DN404.pdf) |
 
-## Solidity audits done during employment in Hacken
+## Solidity audits done with  Hacken
 
 | Type | Successes | Role | Report |
 | - | - | - | :-: |
@@ -59,7 +65,7 @@ Disclosed, publicly accessible reports:
 | Staking | n/a | Reviewer | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/01/SCA-Final-Report-Ignition-Staking-2.0.pdf) |
 | AVL Tree | n/a | Reviewer | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/01/Ociswap_AVL-tree_SC-Audit-Report_21112023_SA-1999-1.pdf) |
 
-## Solidity audits done during employment in Halborn
+## Solidity audits done with Halborn
 
 | Type | Successes | Role | Report |
 | - | - | - | :-: |
