@@ -49,7 +49,6 @@ Disclosed, publicly accessible reports:
 
 | Type | Successes | Role | Report |
 | - | - | - | :-: |
-
 | Bridge, Odysey Network | 1 Critical, 2 High, 1 Medium | Auditor | [📄 Report](https://audits.hacken.io/dione-protocol/sca-dione-protocol-odysseybridges-sep2024/) |
 | Anonymity, Oasis Network | 1 Critical, 3 High | Auditor | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/04/Hacken_CoinStir_SCA-CoinStir_EIP712_Feb2024_P-2024-204_2_20240329-10_14.pdf) |
 | Staking | 1 High | Auditor | [📄 Report](https://wp.hacken.io/wp-content/uploads/2024/03/Hacken_LinqAI_SCA-LinqAI_Token_Mar2024_P-2024-254_1_20240329-08_50.pdf) |
